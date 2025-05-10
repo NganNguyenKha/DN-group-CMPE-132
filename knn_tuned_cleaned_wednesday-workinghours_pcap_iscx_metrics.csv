@@ -1,0 +1,7 @@
+Attack Type,Accuracy,Recall,Precision,F1-Score
+BENIGN,0.9997,0.1999,0.2,0.2
+DoS GoldenEye,0.9985,0.3328,0.3333,0.3331
+DoS Hulk,0.9995,0.3332,0.3333,0.3333
+DoS Slowhttptest,0.9943,0.3314,0.3333,0.3324
+DoS slowloris,0.9898,0.2474,0.25,0.2487
+Heartbleed,1.0,1.0,1.0,1.0

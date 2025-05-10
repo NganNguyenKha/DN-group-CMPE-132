@@ -1,0 +1,5 @@
+Attack Type,Accuracy,Recall,Precision,F1-Score
+BENIGN,0.9999,0.4999,0.5,0.5
+Web Attack � Brute Force,0.7245,0.2415,0.3333,0.2801
+Web Attack � Sql Injection,0.25,0.0833,0.3333,0.1333
+Web Attack � XSS,0.3817,0.1272,0.3333,0.1842
