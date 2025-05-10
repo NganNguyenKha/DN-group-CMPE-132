@@ -1,0 +1,4 @@
+Attack Type,Accuracy,Recall,Precision,F1-Score
+BENIGN,0.9999,0.5,0.5,0.5
+FTP-Patator,0.9975,0.4987,0.5,0.4994
+SSH-Patator,1.0,1.0,1.0,1.0
